@@ -18,6 +18,7 @@ Roblox has added a new `--launch-to-tray` feature. When you close the game, the 
 ---
 
 ## 📸 Preview
+<img width="282" height="138" alt="image" src="https://github.com/user-attachments/assets/750b4905-4a3b-4d49-a486-b04cefc6bbda" />
 
 - Tray icon shows live kill count
 - Right-click menu: “Kills: X”, Toggle Monitoring, Exit
